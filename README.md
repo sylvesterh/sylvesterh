@@ -2,7 +2,7 @@
 
 ## I'm a Developer!!
 
-- 🌱 I’m currently learning Dart and Flutter 🌱
+- 🌱 I’m currently learning Python and Django 🌱
 - ⚡ Fun fact: I love to play video games and enjoy creating builds in Terraria ⚡
 
 ### Connect with me:
